@@ -1,7 +1,7 @@
 # Homebrew formula for findjar. Drop this file into a tap repo
-# (typically mbjarland/homebrew-findjar) and users can install via:
+# (typically mbjarland/homebrew-tap) and users can install via:
 #
-#   brew install mbjarland/findjar/findjar
+#   brew install mbjarland/tap/findjar
 #
 # Or, once published in homebrew-core, just:
 #
